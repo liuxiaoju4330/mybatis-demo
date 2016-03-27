@@ -1,5 +1,9 @@
 phubcom/liuxiaoju4330/mybatis-demo.gii
 https://github.com/liuxiaoju4330/mybatis-demo.gii
 
+<<<<<<< HEAD
 
-哈哈哈
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> master
